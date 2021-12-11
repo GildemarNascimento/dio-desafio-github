@@ -2,4 +2,4 @@
 Reposito sobre projeto de desafio github
 
 ## Links uteis
-[Sintaxe basica Markdonw](https://www.markdownguide.org/getting-started/>)0
+[Sintaxe basica Markdonw](https://www.markdownguide.org/getting-started/>)
