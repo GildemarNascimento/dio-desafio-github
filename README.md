@@ -14,7 +14,7 @@ git help
 git help<comando> / [git help init]
 ```
 
-Listar configurações do git
+###### Listar configurações do git
 
 ```
 git config --list
@@ -92,19 +92,19 @@ git git checkout [branch]
 git git checkout [branch] -b 
 ```
 
-###### Junta dois repositorios
+###### Juntar dois repositorios
 
 ```
 git marge [branche]
 ```
 
-###### Renomeia da branch estando dentro dela
+###### Renomeiar da branch estando dentro dela
 
 ```
 git branch -m [nome]
 ```
 
-###### Renomeia branch estando em outra brench
+###### Renomeiar branch estando em outra brench
 
 ```
 git branch -m [antigo] [nova]
@@ -146,7 +146,7 @@ git stash clear
 git log 
 ```
 
-###### Lista historico em uma única linha
+###### Listar historico em uma única linha
 
 ```
 git log --oneline 
@@ -166,4 +166,4 @@ gitk
 
 ###### Links
 
-[Plataforma de visualização](https://git-school.github.io/visualizing-git/)
+[Plataforma de visualização gráfica do git](https://git-school.github.io/visualizing-git/)
